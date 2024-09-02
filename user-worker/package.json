@@ -1,16 +1,16 @@
 {
-  "name": "user-worker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240821.1",
-    "wrangler": "^0.0.0-c4f0d9e01"
-  }
+	"name": "user-worker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20240821.1",
+		"wrangler": "^0.0.0-c4f0d9e01"
+	}
 }
